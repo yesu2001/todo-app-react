@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Todo App}</h1>
+<h1 align="center">Todo App</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -37,7 +37,11 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot]
+![Todo-App - Google Chrome 16-09-2022 19_31_51](https://user-images.githubusercontent.com/72061096/190658594-0feac155-96f0-4856-808c-9d1d6858576c.png)
+![Todo-App - Google Chrome 16-09-2022 19_31_58](https://user-images.githubusercontent.com/72061096/190658618-0c0d471e-90af-4f09-a17e-9f129ba4a4c2.png)
+![Todo-App - Google Chrome 16-09-2022 19_32_03](https://user-images.githubusercontent.com/72061096/190658640-00755092-3d99-4b7d-aa92-543c26f9ac9e.png)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
